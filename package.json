@@ -21,6 +21,7 @@
     "sass": "^1.53.0",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
+    "styled-components": "^5.3.5",
     "url": "^0.11.0",
     "util": "^0.12.4",
     "web-vitals": "^2.1.4"
