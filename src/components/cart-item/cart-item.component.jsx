@@ -1,9 +1,8 @@
-
 import {
   CartItemContainer,
   CartItemImage,
   CartItemDetails,
-  CartItemName
+  CartItemName,
 } from "./cart-item.styles";
 
 const CartItem = ({ cartItem }) => {
