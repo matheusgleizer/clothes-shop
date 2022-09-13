@@ -58,7 +58,6 @@ export const DirectoryItemContainer = styled.div`
     }
   }
 
-
   &:first-child {
     margin-right: 7.5px;
   }
@@ -67,4 +66,3 @@ export const DirectoryItemContainer = styled.div`
     margin-left: 7.5px;
   }
 `;
-
